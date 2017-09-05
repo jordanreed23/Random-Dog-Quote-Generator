@@ -1,8 +1,5 @@
-APIS:
-  Random Quotes:
-    https://forismatic.com/en/api/
-    https://market.mashape.com/andruxnet/random-famous-quotes
-    https://theysaidso.com/api/
+API: Random Quotes: <http://quotesondesign.com/>
 
-  Dogs:
-    https://dog.ceo/dog-api/
+Dogs: <https://dog.ceo/dog-api/>
+
+The application retrieves specified dog breed and overlays an inspirational quote.
